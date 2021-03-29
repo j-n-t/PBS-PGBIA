@@ -8,9 +8,12 @@ Este repositório inclui alguns exercícios realizados ao longo da Pós-Graduaç
 
 <br>
 
-* [Clustering](./clustering.ipynb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-n-t/PBS-PGBIA/HEAD?filepath=clustering.ipynb)
+* Clustering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-n-t/PBS-PGBIA/HEAD?filepath=clustering.ipynb)
 
 <br>
 
-* [Association Rules](./association.ipynb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-n-t/PBS-PGBIA/HEAD?filepath=association.ipynb)
+* Association Rules &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-n-t/PBS-PGBIA/HEAD?filepath=association.ipynb)
 
+<br>
+
+* Classification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-n-t/PBS-PGBIA/HEAD?filepath=classification.ipynb)
